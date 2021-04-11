@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h3>React Web Deployed Online</h3>
+        <h3>Item Control Manager</h3>
       </header>
     </div>
   );
